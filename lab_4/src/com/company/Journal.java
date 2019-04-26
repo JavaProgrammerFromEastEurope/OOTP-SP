@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.*;
-
 public class Journal {
 
     private ArrayList<IStudentCountHandler> studentCountHandler = new ArrayList<IStudentCountHandler>();

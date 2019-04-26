@@ -1,9 +1,6 @@
 package com.company;
 
-import java.util.*;
-import static com.company.Student.Education.SecondEducation;
-import static com.company.Student.Education.Specialist;
-import static com.company.Student.Education.Bachelor;
+import static com.company.Student.Education.*;
 
 public class Main {
     public static void main(String[] args) {

@@ -3,7 +3,6 @@ package com.company;
 import com.company.Student.Education;
 
 import java.io.Serializable;
-import java.util.*;
 
 class TestCollections<K,V>  extends HashMap<K,V>
         implements Map<K,V>, Cloneable, Serializable {

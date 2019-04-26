@@ -1,14 +1,13 @@
 package core;
 
+import Elements.*;
+import Elements.Number;
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
-
-import Elements.*;
-import Elements.Number;
 
 public class Main {
 	

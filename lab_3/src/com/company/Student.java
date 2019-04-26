@@ -1,7 +1,5 @@
 package com.company;
 
-import java.util.*;
-
 import static java.text.MessageFormat.format;
 
 class Student extends Person {

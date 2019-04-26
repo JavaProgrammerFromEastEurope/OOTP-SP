@@ -6,8 +6,6 @@ import java.util.ArrayList;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
-import static com.company.Student.Education.Bachelor;
-import static com.company.Student.Education.SecondEducation;
 import static com.company.Student.Education.Specialist;
 
 public class Main {
