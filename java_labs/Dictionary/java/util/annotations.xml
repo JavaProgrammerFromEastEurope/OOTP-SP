@@ -1,0 +1,10 @@
+<root>
+    <item name='java.util.Collections'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+    <item name='java.util.Random int nextInt(int)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>
